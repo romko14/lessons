@@ -1,0 +1,22 @@
+.card-body{
+    display: flex;
+    align-items: center;
+}
+.user-info{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.user-img{
+    margin-right: 10px;
+    margin-top:-15px;
+}
+.user1, .user2, .user3, .user4, .user5,.user6,.user7,.user8,.user9,.user10{
+    font-size: medium;
+}
+.city1,.city2,.city3,.city4,.city5,.city6,.city7,.city8,.city9,.city10{
+    font-size: small;
+}
+.user1email,.user2email,.user3email,.user4email,.user5email,.user6email,.user7email,.user8email,.user9email,.user10email{
+    font-size: smaller;
+}
