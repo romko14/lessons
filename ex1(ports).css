@@ -1,0 +1,39 @@
+.header{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aqua;
+    color: black;
+}
+.edit-switch,.btn{
+    width: 100%;
+}
+.control{
+    width: 100%;
+}
+.card {
+    display: flex;
+    flex-direction: row;
+}
+
+.card-header-indicator {
+    height: 162px;
+    width: 28px;
+    display: flex;         
+    justify-content: center; 
+    align-items: center;   
+    text-align: center;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.user {
+    display: flex;
+    flex-direction: column;
+}
+
+  
